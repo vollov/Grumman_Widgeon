@@ -1,0 +1,7 @@
+[fuselage - ribs (1/4 inch plywood)]
+0001 - Station-1 (S1) A
+0002 - Station-2 (S2) B
+0003 - Station-3 (S3) C
+0004 - Station-4 (S4) D
+0005 - Station-5 (S5) E
+0001 - Station-6 (S1) F
